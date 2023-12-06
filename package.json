@@ -1,0 +1,11 @@
+{
+  "name": "ip-submit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ayushicodealchemy/ip-submit.git",
+  "author": "ayushicodealchemy <ayushi.codealchemy@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node generateReadMe.js"
+  }
+}
