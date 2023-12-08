@@ -66,4 +66,4 @@
 
 ## Preview
 
-![CheckBox](../static/img/Previews/webUrl.png)
+![CheckBox](../static/img/Previews/checkBox.png)
