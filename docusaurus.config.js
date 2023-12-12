@@ -8,7 +8,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Ip Submit",
+  title: "Ip Submit - Doc",
   tagline: "Build optimized websites quickly, focus on your content",
   favicon: "img/favicon.ico",
 
@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  projectName: "ip-submit-doc", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -53,11 +53,16 @@ const config = {
       image: "img/docusaurus-social-card.jpg",
       navbar: {
         title: "Ip Submit",
-        logo: { alt: "My Site Logo", src: "img/logo.svg" },
+        logo: { alt: "My Site Logo", src: "img/logo.png" },
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+      },
+      docs: {
+        sidebar: {
+          autoCollapseCategories: true,
+        },
       },
     }),
 };
