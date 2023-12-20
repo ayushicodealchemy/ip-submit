@@ -8,8 +8,9 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Ip Submit - Doc",
-  tagline: "Build optimized websites quickly, focus on your content",
+  title: "React Dynamic Json Form Generator",
+  tagline:
+    "Empower Your React Forms: Unleash Efficiency with the React Dynamic Form Json Generator - Streamlined Creation, Endless Possibilities!",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -50,7 +51,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: "img/docusaurus-social-card.jpg",
       navbar: {
         title: "Ip Submit",
         logo: { alt: "My Site Logo", src: "img/logo.png" },

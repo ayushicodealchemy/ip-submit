@@ -2,8 +2,8 @@
 | ----------- | --------------------------------------------------------------- | ----------------------------------------- |
 | id          | This id will be put as the name of the field / input element    | ✔️                                        |
 | type        | The type of the field                                           | text                                      |
-| prefix      | This field will be put as the label before the field            |                                           |
-| suffix      | This field will be put as the label after the field             |                                           |
+| prefix      | This field will be put as the label before the field            | prefix string                             |
+| suffix      | This field will be put as the label after the field             | suffix string                             |
 | Label       | Label of the field                                              | First Name , age , email                  |
 | Placeholder | The placeholder of the field                                    | Enter First Name , Enter age, Enter email |
 | value       | The default value of the field                                  | John , 20 , test@gmail.com                |

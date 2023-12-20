@@ -2,8 +2,8 @@
 | -------- | -------------------------------------------------------------------- | ------------------ |
 | id       | This id will be put as the name of the field / input element         | ✔️                 |
 | type     | The type of the field                                                | radio              |
-| prefix   | This field will be put as the label before the field                 |                    |
-| suffix   | This field will be put as the label after the field                  |                    |
+| prefix   | This field will be put as the label before the field                 | prefix string      |
+| suffix   | This field will be put as the label after the field                  | suffix string      |
 | Label    | Label of the field                                                   | Gender             |
 | options  | The options array will be render as multiple Radio Button to select. | ['Male', 'Female'] |
 | child    | The child of the field                                               | [Child](#child)    |
