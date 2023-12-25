@@ -107,8 +107,7 @@ export default function Home() {
           <h2 className="playground-heading">Playground</h2>
           <div className="playground-preview">
             <iframe
-              src={"https://react-ip-submit-web.onrender.com/preview"}
-              // src={"https://ipsubmit.onrender.com/preview"}
+              src={"https://ipsubmit.onrender.com/preview"}
               height={"100%"}
               width={"100%"}
             />
