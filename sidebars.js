@@ -24,8 +24,8 @@ export default {
     { type: "doc", id: "Search", label: "Search" },
     { type: "doc", id: "Select", label: "Select" },
     { type: "doc", id: "SpanInput", label: "Span Input" },
+    { type: "doc", id: "Section", label: "Section" },
     { type: "doc", id: "Upload", label: "Upload" },
     { type: "doc", id: "WebUrl", label: "WebUrl" },
-    { type: "doc", id: "Section", label: "Section" },
   ],
 };
