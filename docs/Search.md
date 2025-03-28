@@ -7,6 +7,7 @@
 | Label    | Label of the field                                           | Search code       |
 | value    | The api of field.                                            | Your API endpoint |
 | options  | The placeholder of the field.                                | Enter code        |
+| api      | Add an API endpoint for searching data.                      | Your API endpoint |
 | rules    | Validation rule for this field.                              | [Rules](#rules)   |
 
 ### Rules
